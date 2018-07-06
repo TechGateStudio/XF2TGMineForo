@@ -1,2 +1,17 @@
-# MineForo
-MineForo addon for XenForo 2.0
+# [RU] MineForo
+
+**MineForo** - это дополнение для XenForo 2.0 позволяющее расширить ваш формум на XenForo до портала Minecraft проекта.
+
+Плагин является переработкой плагина Minecraft Project, по этому MineForo можно смело называть Minecraft Project 2.0.
+## Возможности
+1. Персональная страница для каждого сервера;
+2. Валюта;
+3. Статусы;
+4. Статистика;
+5. Новости.
+
+## Статус разработки
+-
+
+## Разработчики
+- @Spark108 ([VK](https://vk.com/kirito.asumo))
